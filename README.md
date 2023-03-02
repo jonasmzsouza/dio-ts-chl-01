@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dio-bank/dio-bank?style=flat-square&color=f1783f">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonasmzsouza/dio-bank?style=flat-square&color=f1783f">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasmzsouza/dio-bank?style=flat-square&color=1f6feb">
   <a href="https://github.com/jonasmzsouza/dio-bank/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonasmzsouza/dio-bank/main?style=flat-square&color=2f74c0">
@@ -11,19 +11,19 @@
 <p align="center">
  <a href="#-about-the-project">About</a> |
  <a href="#-technologies">Technologies</a> | 
-  <a href="#-how-to">How to</a> | 
+  <a href="#%EF%B8%8F-how-to">How to</a> | 
     <a href="#-learning">Learning</a> | 
    <a href="#-tasks">Tasks</a> | 
  <a href="#-author">Author</a> 
 </p>
 
-## :computer: About the project
+## 💻 About the project
 
 DIO Bank Project was developed with typescript basics from TypeScript Full Stack Developer Training on [Digital Innovation One](https://www.dio.me/). 
 
 ---
 
-## :hammer_and_wrench: Technologies
+## 🛠 Technologies
 
 Technologies and tools that were used in the development of the project:
 
@@ -38,7 +38,8 @@ Technologies and tools that were used in the development of the project:
 - Shields: **[Shields](https://shields.io/)**
 
 ---
-## :gear: How to
+
+## ⚙️ How to
 
 1. clone repo
 2. install the dependencies
@@ -50,13 +51,13 @@ npm install
 npm run dev
 ```
 ---
-## :book: Learning
+## 📖 Learning
 
 -  Introduction to Typescript
 -  Object Oriented Programming with TypeScript
 
 ---
-##  :white_check_mark: Tasks
+## ✅ Tasks
 
 - [x] Implement the deposit and withdraw methods in the DioAccount class
   - The values of the balances must be changed, according to the value entered for the deposit
@@ -77,7 +78,7 @@ npm run dev
 - [x] Create instances for each of the account types in app.ts and run the possible methods.
 
 ---
-## :man_technologist: Author
+## 👨‍💻 Author
 
 <table>
   <tr>
