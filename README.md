@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonasmzsouza/dio-bank?style=flat-square&color=f1783f">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasmzsouza/dio-bank?style=flat-square&color=1f6feb">
-  <a href="https://github.com/jonasmzsouza/dio-bank/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonasmzsouza/dio-bank/main?style=flat-square&color=2f74c0">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonasmzsouza/dio-ts-chl-01?style=flat-square&color=f1783f">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jonasmzsouza/dio-ts-chl-01?style=flat-square&color=1f6feb">
+  <a href="https://github.com/jonasmzsouza/dio-ts-chl-01/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonasmzsouza/dio-ts-chl-01/main?style=flat-square&color=2f74c0">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 <p align="center">
  <a href="#-about-the-project">About</a> |
  <a href="#-technologies">Technologies</a> | 
-  <a href="#%EF%B8%8F-how-to">How to</a> | 
+  <a href="#-how-to">How to</a> | 
     <a href="#-learning">Learning</a> | 
    <a href="#-tasks">Tasks</a> | 
  <a href="#-author">Author</a> 
@@ -19,7 +19,7 @@
 
 ## 💻 About the project
 
-DIO Bank Project was developed with typescript basics from TypeScript Full Stack Developer Training on [Digital Innovation One](https://www.dio.me/). 
+Project was developed with typescript basics from TypeScript Full Stack Developer Training on [Digital Innovation One](https://www.dio.me/). 
 
 ---
 
@@ -27,11 +27,11 @@ DIO Bank Project was developed with typescript basics from TypeScript Full Stack
 
 Technologies and tools that were used in the development of the project:
 
-#### **Languages**
+### **Languages**
 
 -   Typescript
 
-#### **Utilities**
+### **Utilities**
 
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Emojis: **[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
@@ -39,7 +39,7 @@ Technologies and tools that were used in the development of the project:
 
 ---
 
-## ⚙️ How to
+## 🔧 How to
 
 1. clone repo
 2. install the dependencies
